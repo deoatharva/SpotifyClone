@@ -18,7 +18,28 @@ let songs = [
     {songName: "Chamak Challo",filePath: "6.mp3", coverPath: "7.jpg"},
     {songName: "Raftaarein",filePath: "7.mp3", coverPath: "8.jpg"},
     {songName: "Tum Se Hi",filePath: "8.mp3", coverPath: "9.jpg"},
-    {songName: "Aao Chalo",filePath: "9.mp3", coverPath: "10.jpg"}
+    {songName: "Aao Chalo",filePath: "9.mp3", coverPath: "10.jpg"},
+    {songName: "Bahara",filePath: "10.mp3", coverPath: "img.jpg"},
+    {songName: "Chahu main",filePath: "11.mp3", coverPath: "img.jpg"},
+    {songName: "Empire",filePath: "12.mp3", coverPath: "img.jpg"},
+    {songName: "Jab Tak",filePath: "13.mp3", coverPath: "img.jpg"},
+    {songName: "Jeene Laga Hoon",filePath: "14.mp3", coverPath: "img.jpg"},
+    {songName: "Kashmir mai",filePath: "15.mp3", coverPath: "img.jpg"},
+    {songName: "Khuda Jane",filePath: "16.mp3", coverPath: "img.jpg"},
+    {songName: "Maula Mera",filePath: "17.mp3", coverPath: "img.jpg"},
+    {songName: "Ordinary Life",filePath: "18.mp3", coverPath: "img.jpg"},
+    {songName: "NCTS NEXT",filePath: "19.mp3", coverPath: "img.jpg"},
+    {songName: "Why this kolaveri d",filePath: "20.mp3", coverPath: "img.jpg"},
+    {songName: "Tujh Mein Rab Dikhta Hai",filePath: "21.mp3", coverPath: "img.jpg"},
+    {songName: "Tu Hi Meri Shab Hai",filePath: "22.mp3", coverPath: "img.jpg"},
+    {songName: "Tera Hone Laga Hoon",filePath: "23.mp3", coverPath: "img.jpg"},
+    {songName: "Pehla Nasha",filePath: "24.mp3", coverPath: "img.jpg"},
+    {songName: "Maula Mere",filePath: "25.mp3", coverPath: "img.jpg"},
+    {songName: "Kya Mujhe Pyaar hai",filePath: "26.mp3", coverPath: "img.jpg"},
+    {songName: "Kaun Tujhe",filePath: "27.mp3", coverPath: "img.jpg"},
+    {songName: "Ishq Wala Love",filePath: "28.mp3", coverPath: "img.jpg"},
+    {songName: "tere liye",filePath: "29.mp3", coverPath: "img.jpg"},
+    {songName: "Atharvashirsha",filePath: "30.mp3", coverPath: "img.jpg"}
 ]
 
 songItems.forEach((element, i)=>{
