@@ -44,7 +44,7 @@ let songs = [
     {songName: "Hookah bar",filePath: "32.mp3", coverPath: "img.jpg"},
     {songName: "Hukum",filePath: "33.mp3", coverPath: "img.jpg"},
     {songName: "Maine Royan",filePath: "34.mp3", coverPath: "img.jpg"},
-    {songName: "Man mera",filePath: "35.mp3", coverPath: "img.jpg"},
+    {songName: "Man mera",filePath: "35.mp3", coverPath: "img.jpg"}
 ]
 
 songItems.forEach((element, i)=>{
