@@ -47,7 +47,7 @@ let songs = [
     {songName: "Man mera",filePath: "35.mp3", coverPath: "img.jpg"},
     {songName: "Tera yar hoon mai",filePath: "36.mp3", coverPath: "img.jpg"},
     {songName: "Hasi",filePath: "37.mp3", coverPath: "img.jpg"},
-    {songName: "Main Dhoondne Ko Zamaane Mein",filePath: "38.mp3", coverPath: "img.jpg"},   
+    {songName: "Dhondne Ko Zamane Mein",filePath: "38.mp3", coverPath: "img.jpg"},   
     {songName: "Bom Diggy Diggy ",filePath: "39.mp3", coverPath: "img.jpg"},
     {songName: "Bhool Bhulaiyaa 2 Title Track",filePath: "40.mp3", coverPath: "img.jpg"}
 ]
