@@ -26,7 +26,7 @@ let songs = [
     {songName: "Jeene Laga Hoon",filePath: "14.mp3", coverPath: "img.jpg"},
     {songName: "Kashmir Main Tu Kanyakumari",filePath: "15.mp3", coverPath: "img.jpg"},
     {songName: "Khuda Jane",filePath: "16.mp3", coverPath: "img.jpg"},
-    {songName: "Maula Mera",filePath: "17.mp3", coverPath: "img.jpg"},
+    {songName: "Khaabon Ke Parinday",filePath: "17.mp3", coverPath: "img.jpg"},
     {songName: "My Ordinary Life",filePath: "18.mp3", coverPath: "img.jpg"},
     {songName: "NCTS NEXT",filePath: "19.mp3", coverPath: "img.jpg"},
     {songName: "Why this kolaveri di",filePath: "20.mp3", coverPath: "img.jpg"},
@@ -59,7 +59,58 @@ let songs = [
     {songName: "Jhol",filePath: "47.mp3", coverPath: "img.jpg"},
     {songName: "Pasoori",filePath: "48.mp3", coverPath: "img.jpg"},
     {songName: "Middle of the night",filePath: "49.mp3", coverPath: "img.jpg"},
-    {songName: "E T",filePath: "50.mp3", coverPath: "img.jpg"}
+    {songName: "E T",filePath: "50.mp3", coverPath: "img.jpg"},
+    {songName: "Skyfall",filePath: "51.mp3", coverPath: "img.jpg"},
+    {songName: "Haa Ke Haa",filePath: "52.mp3", coverPath: "img.jpg"},
+    {songName: "Ajab Si ",filePath: "53.mp3", coverPath: "img.jpg"},
+    {songName: "Akhiyaan Gulaab",filePath: "54.mp3", coverPath: "img.jpg"},
+    {songName: "Badshah O Badshah",filePath: "55.mp3", coverPath: "img.jpg"},
+    {songName: "Badtameez Dil",filePath: "56.mp3", coverPath: "img.jpg"},
+    {songName: "Balam Pichkari",filePath: "57.mp3", coverPath: "img.jpg"},
+    {songName: "Bang Bang",filePath: "58.mp3", coverPath: "img.jpg"},
+    {songName: "Besharmi Ki Height",filePath: "59.mp3", coverPath: "img.jpg"},
+    {songName: "Caller Tune",filePath: "60.mp3", coverPath: "img.jpg"},
+    {songName: "Chaleya",filePath: "61.mp3", coverPath: "img.jpg"},
+    {songName: "Dard E Disco",filePath: "62.mp3", coverPath: "img.jpg"},
+    {songName: "Dastaan E",filePath: "63.mp3", coverPath: "img.jpg"},
+    {songName: "Deewangi Deewangi",filePath: "64.mp3", coverPath: "img.jpg"},
+    {songName: "Deva Shree Ganesha ",filePath: "65.mp3", coverPath: "img.jpg"},
+    {songName: "Dhoom Taana",filePath: "66.mp3", coverPath: "img.jpg"},
+    {songName: "Dil Dhadakne Do",filePath: "67.mp3", coverPath: "img.jpg"},
+    {songName: "Dilliwaali Girlfriend",filePath: "68.mp3", coverPath: "img.jpg"},
+    {songName: "Royalty",filePath: "69.mp3", coverPath: "img.jpg"},
+    {songName: "Ek Pal Ka Jeena",filePath: "70.mp3", coverPath: "img.jpg"},
+    {songName: "Girl I Need You",filePath: "71.mp3", coverPath: "img.jpg"},
+    {songName: "Enemy",filePath: "72.mp3", coverPath: "img.jpg"},
+    {songName: "Galliyan",filePath: "73.mp3", coverPath: "img.jpg"},
+    {songName: "Get Ready To Fight",filePath: "74.mp3", coverPath: "img.jpg"},
+    {songName: "Ghagra",filePath: "75.mp3", coverPath: "img.jpg"},
+    {songName: "Ghungroo",filePath: "76.mp3", coverPath: "img.jpg"},
+    {songName: "Habibi",filePath: "77.mp3", coverPath: "img.jpg"},
+    {songName: "Ilahi",filePath: "78.mp3", coverPath: "img.jpg"},
+    {songName: "Jag Soona Soona Lage",filePath: "79.mp3", coverPath: "img.jpg"},
+    {songName: "Kab hi Kabhi Aditi Zindagi",filePath: "80.mp3", coverPath: "img.jpg"},
+    {songName: "Kabira",filePath: "81.mp3", coverPath: "img.jpg"},
+    {songName: "Laal Peeli Akhiyaan",filePath: "82.mp3", coverPath: "img.jpg"},
+    {songName: "Main Agar Kahoon",filePath: "83.mp3", coverPath: "img.jpg"},
+    {songName: "Main Hoon Na",filePath: "84.mp3", coverPath: "img.jpg"},
+    {songName: "Raat Bhar",filePath: "85.mp3", coverPath: "img.jpg"},
+    {songName: "Rabba",filePath: "86.mp3", coverPath: "img.jpg"},
+    {songName: "Sau Tarah Ke",filePath: "87.mp3", coverPath: "img.jpg"},
+    {songName: "Senorita",filePath: "88.mp3", coverPath: "img.jpg"},
+    {songName: "Soni De Nakhre",filePath: "89.mp3", coverPath: "img.jpg"},
+    {songName: "Sooraj Dooba Hain",filePath: "90.mp3", coverPath: "img.jpg"},
+    {songName: "Subha Hone Na De",filePath: "91.mp3", coverPath: "img.jpg"}
+    {songName: "Subhanallah",filePath: "92.mp3", coverPath: "img.jpg"},
+    {songName: "Teri Baaton Mein Aisa Uljha Jiya",filePath: "93.mp3", coverPath: "img.jpg"},
+    {songName: "Tu Jaane Na",filePath: "94.mp3", coverPath: "img.jpg"},
+    {songName: "Tu Meri",filePath: "95.mp3", coverPath: "img.jpg"},
+    {songName: "Tumhe Jo Maine Dekha",filePath: "96.mp3", coverPath: "img.jpg"},
+    {songName: "Tum Hi Ho Bandhu",filePath: "97.mp3", coverPath: "img.jpg"},
+    {songName: "Uff",filePath: "98.mp3", coverPath: "img.jpg"},
+    {songName: "Whistle Baja",filePath: "99.mp3", coverPath: "img.jpg"},
+    {songName: "Zinda",filePath: "100.mp3", coverPath: "img.jpg"},
+    {songName: "O Re Piya",filePath: "101.mp3", coverPath: "img.jpg"}  
 ]
 
 songItems.forEach((element, i)=>{
@@ -122,7 +173,7 @@ Array.from(document.getElementsByClassName('songItemPlay')).forEach((element)=>{
 })
 
 document.getElementById('next').addEventListener('click', ()=>{
-    if(songIndex >= 50){
+    if(songIndex >= 101){
         songIndex = 0;
     }
     else{
