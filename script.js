@@ -100,7 +100,7 @@ let songs = [
     {songName: "Senorita",filePath: "88.mp3", coverPath: "img.jpg"},
     {songName: "Soni De Nakhre",filePath: "89.mp3", coverPath: "img.jpg"},
     {songName: "Sooraj Dooba Hain",filePath: "90.mp3", coverPath: "img.jpg"},
-    {songName: "Subha Hone Na De",filePath: "91.mp3", coverPath: "img.jpg"}
+    {songName: "Subha Hone Na De",filePath: "91.mp3", coverPath: "img.jpg"},
     {songName: "Subhanallah",filePath: "92.mp3", coverPath: "img.jpg"},
     {songName: "Teri Baaton Mein Aisa Uljha Jiya",filePath: "93.mp3", coverPath: "img.jpg"},
     {songName: "Tu Jaane Na",filePath: "94.mp3", coverPath: "img.jpg"},
